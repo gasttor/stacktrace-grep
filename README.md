@@ -1,6 +1,6 @@
 # Stack Trace Grep
 
-A simple and handy tool to grep Java Stack Traces from log-files. Practically it's similar to grep, but not so powerful like grep ;)
+A simple and handy tool to grep Java Stack Traces (Exceptions) from log-files. Practically it's similar to grep, but not so powerful like grep ;)
 The only purpose of this tool is to extract complete Stack Traces from files.
 
 ## Usage
